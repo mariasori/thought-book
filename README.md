@@ -14,6 +14,7 @@ The purpose of this challegne was to create an an API for a social network that 
 - [Contributions](#contributions)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Walkthrough](#walkthrough)
  
 ## Installation
 After cloning repository, run `npm init`. Express and MongoDB must be installed.  Use `npm start` to start application.
@@ -35,3 +36,5 @@ Find me on GitHub: [mariasori](https://github.com/mariasori)
 <br />
 Email me with any questions: [mariasori87@gmail.com](mailto:mariasori87@gmail.com)
 
+## Walkthrough
+Click [here](https://watch.screencastify.com/v/r6ntul8aHwnunPJC2WVe) to see the video walkthrough of the application.
