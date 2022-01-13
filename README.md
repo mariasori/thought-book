@@ -4,7 +4,7 @@
 
 
 ## Description
-The purpose of this challegne was to create an an API for a social network that uses a NoSQL database.  
+The purpose of this challenge was to create an an API for a social network that uses a NoSQL database.  Thought Book is a social network API where users can share their thoughts, react to friend's thoughts, and create a friend list. The application uses Express, Node, MongoDB and Mongoose. 
 
 ## Table of Contents
 - [Description](#description)
@@ -17,10 +17,10 @@ The purpose of this challegne was to create an an API for a social network that 
 - [Walkthrough](#walkthrough)
  
 ## Installation
-After cloning repository, run `npm init`. Express and MongoDB must be installed.  Use `npm start` to start application.
+After cloning repository, run `npm init`. Express and MongoDB must be installed.  Use `npm run start` to start application.
 
 ## Usage
-Thought Book is a social network API where users can share their thoughts, react to friend's thoughts, and create a friend list. The application uses Express, Node, MongoDB and Mongoose. 
+The project can be used as an API for a social networking app where users can share their thoughts, react to friend's thoughts, and create a friend list. 
 
 ## License
 This project is not covered by any open source license.  All rights are reserved.
